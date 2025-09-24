@@ -51,8 +51,11 @@ Fact Layer (`L2_PROCESSING` schema)
 Consumption Layer (`L3_CONSUMPTION` schema)
   - **CUSTOMERORDER** - Customer order analytics
   - **CUSTOMERREVENUE** - Customer revenue metrics
-  - **SALESTARGET** - Sales performance tracking
   - **ORDERITEMS_UNIQ** - Unique order items view
+  - **SALESTARGET** - Sales performance tracking
+
+Development Layer (`TRAINING` schema)
+  - **profit_us** - Development sandbox model
 
 
 ### Key Commands
